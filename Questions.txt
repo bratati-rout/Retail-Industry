@@ -1,0 +1,11 @@
+how many units have been sold per branch?
+average sales cost per branch.
+total units bought by each customer.
+
+How many branches are there in a particular city?
+Who is the manager of Aditya Vision Ltd
+
+How many customers are there above 40?
+How many customers are there from a particular city(Kolkata)
+How many female customers are there?
+Find out who is the genuine cutomer using the maximum duration.
